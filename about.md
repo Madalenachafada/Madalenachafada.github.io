@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About
+title: Sobre mi
 permalink: /about/
 ---
 
-Some information about you!
+Hem dic Eric i he fet aquesta pàgina amb Jekyll
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### Més informació
+He creat dos posts a la meva pàgina
